@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogueBox", "DialogueBox.csproj", "{E10CD80D-58B8-3B83-3A1B-AF4B54FED1E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogueBox.Editor", "DialogueBox.Editor.csproj", "{CFA62D72-C3CD-5F03-4ADE-43B416B409BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E10CD80D-58B8-3B83-3A1B-AF4B54FED1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10CD80D-58B8-3B83-3A1B-AF4B54FED1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10CD80D-58B8-3B83-3A1B-AF4B54FED1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10CD80D-58B8-3B83-3A1B-AF4B54FED1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA62D72-C3CD-5F03-4ADE-43B416B409BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA62D72-C3CD-5F03-4ADE-43B416B409BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA62D72-C3CD-5F03-4ADE-43B416B409BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA62D72-C3CD-5F03-4ADE-43B416B409BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
